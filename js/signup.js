@@ -43,6 +43,6 @@ function clearForm(){
 }
 
 function gotologin(){
-    window.location.href='landing.html';
+    window.location.href='index.html';
 }
 
