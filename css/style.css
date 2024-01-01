@@ -1,0 +1,58 @@
+body{
+
+    background-color: #24353f;
+    color: #fff;
+}
+
+h1{
+    color: #17a2b8;
+}
+
+input[type="text"], textarea{
+
+    background-color: transparent !important;
+    color: #fff;
+    
+}
+
+input[type="text"]::placeholder{
+    color: #fff;
+}
+input[type="email"], textarea{
+
+    background-color: transparent !important;
+    color: #fff;
+    
+}
+
+input[type="email"]::placeholder{
+    color: #fff;
+}
+input[type="password"], textarea{
+
+    background-color: transparent !important;
+    color: #fff;
+    
+}
+
+input[type="password"]::placeholder{
+    color: #fff;
+}
+
+input:hover{
+    border-color: #17a2b8;
+    
+}
+
+input:hover::placeholder{
+    color: #17a2b8;
+}
+
+.btn-outline-info {
+    color: #17a2b8;
+    background-color: transparent;
+    background-image: none;
+    border-color: #17a2b8;
+}
+
+
